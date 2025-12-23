@@ -82,7 +82,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -119,7 +119,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dungeon_HeroMan1Attack_0: -1688522881201350622
+      Dungeon_HeroMan1Attack_1: -3265581905333847963
+      Dungeon_HeroMan1Attack_10: -7466650815803143356
+      Dungeon_HeroMan1Attack_11: 3979960299617825201
+      Dungeon_HeroMan1Attack_12: 4374802443304804171
+      Dungeon_HeroMan1Attack_13: -2212547674125973033
+      Dungeon_HeroMan1Attack_14: -8195946513641352214
+      Dungeon_HeroMan1Attack_15: -2977528673368170614
+      Dungeon_HeroMan1Attack_2: -65973720480377710
+      Dungeon_HeroMan1Attack_3: -7887484701547274321
+      Dungeon_HeroMan1Attack_4: -8379236344380249437
+      Dungeon_HeroMan1Attack_5: -148862856526145167
+      Dungeon_HeroMan1Attack_6: 3652935012764495623
+      Dungeon_HeroMan1Attack_7: -9220719724150904467
+      Dungeon_HeroMan1Attack_8: -493517135163916972
+      Dungeon_HeroMan1Attack_9: 3771971166454468521
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
