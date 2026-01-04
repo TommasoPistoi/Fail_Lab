@@ -823,14 +823,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1128201635}
     m_Modifications:
-    - target: {fileID: 2157198305248351199, guid: d5cdd3ee64686234d957f06791726fb9, type: 3}
-      propertyPath: m_TagString
-      value: Wall
-      objectReference: {fileID: 0}
-    - target: {fileID: 6644136967631352433, guid: d5cdd3ee64686234d957f06791726fb9, type: 3}
-      propertyPath: '_data._objectReferences.Array.data[0]'
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 8073038463547147318, guid: d5cdd3ee64686234d957f06791726fb9, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
