@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Wall
   - Death
+  - Loot
+  - Equip
   layers:
   - Default
   - TransparentFX
