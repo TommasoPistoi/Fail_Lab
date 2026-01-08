@@ -9,6 +9,7 @@ TagManager:
   - Loot
   - Equip
   - Pedane
+  - Shield
   layers:
   - Default
   - TransparentFX
