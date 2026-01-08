@@ -90994,7 +90994,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2861191257237521485, guid: 25209dee4473b02498b3700c2e8a6093, type: 3}
       propertyPath: _data._json
-      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Tempo_Change","value":{"$content":3.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Tempo_Change","value":{"$content":2.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"State_0","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Sprite,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"State_1","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Sprite,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"State_2","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Sprite,
@@ -119906,7 +119906,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8417298927951061626, guid: 8ad6425407ece3f48a371fc7b68462ad, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -120294,6 +120294,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1031068835103210769, guid: b3c0cef9f91854c43a92fe91c674108f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1031068835103210769, guid: b3c0cef9f91854c43a92fe91c674108f, type: 3}
+      propertyPath: m_ConstrainProportionsScale
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3094031770779034996, guid: b3c0cef9f91854c43a92fe91c674108f, type: 3}
