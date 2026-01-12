@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 4711335994464848301}
   m_Layer: 0
   m_Name: Spine
-  m_TagString: Death
+  m_TagString: Pedane
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
