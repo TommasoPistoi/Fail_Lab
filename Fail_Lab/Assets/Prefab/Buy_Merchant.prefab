@@ -170,7 +170,7 @@ MonoBehaviour:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Spawn_Items","value":{"$content":[0,1,2],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Items_To_Buy","value":{"$content":[3],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Items_To_Buy","value":{"$content":[3,4,5],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
@@ -179,6 +179,8 @@ MonoBehaviour:
     - {fileID: 2006035974501816600}
     - {fileID: 8818451554499589562}
     - {fileID: 857745867505166895, guid: a980980981c3ab947aaf62da7af8ee7a, type: 3}
+    - {fileID: 6479061207914488399, guid: 78d230c33580ba842ab08ea5ad04e7b8, type: 3}
+    - {fileID: 6286557665342838348, guid: 15be6102e43f7cb40b15b1c1f734eaf2, type: 3}
 --- !u!114 &6249240608491034409
 MonoBehaviour:
   m_ObjectHideFlags: 0
