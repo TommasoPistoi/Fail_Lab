@@ -25,7 +25,7 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Character_Died","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Characters","value":{"$content":[0,1,2],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Characters","value":{"$content":[0,1,2,3,4,5],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Inventory_of_The_Dead","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
@@ -36,3 +36,6 @@ MonoBehaviour:
     - {fileID: 3094031770779034996, guid: b3c0cef9f91854c43a92fe91c674108f, type: 3}
     - {fileID: 3094031770779034996, guid: 2c08bc79de6fe3f4fa5c4595f8a9e2d7, type: 3}
     - {fileID: 3094031770779034996, guid: f3171ade400082d44ae049fd759b65f4, type: 3}
+    - {fileID: 3094031770779034996, guid: 9b2ca9bc6b94a344493cbec007d87049, type: 3}
+    - {fileID: 3094031770779034996, guid: a430d58bb91459e439a90051331b42a9, type: 3}
+    - {fileID: 3094031770779034996, guid: 772c449bd0cfb14418213d1c6d972dc0, type: 3}
