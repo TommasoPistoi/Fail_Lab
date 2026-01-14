@@ -15971,57 +15971,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 528109531394275434, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 553807968976781082, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 783709707859478428, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 942616496475116219, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 1142693684247075471, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 3
-      objectReference: {fileID: 0}
     - target: {fileID: 2111654233995956087, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
       propertyPath: m_Name
       value: 1-1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2450452998684731978, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-      propertyPath: _data._json
-      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Lootable","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Space_Inventory","value":{"$content":2.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Value","value":{"$content":12.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Use_Item","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-      objectReference: {fileID: 0}
-    - target: {fileID: 3592587834012548755, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 5092100832432025688, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 5369857500875522962, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 5640753273266842363, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 6556856542243057644, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7606269419375906477, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16063,35 +16015,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7789018038920504592, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 7979330774973612513, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 8192969056811494996, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 8240522943437995374, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 8732395017581715450, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 3
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects:
-    - {fileID: 7389664216530070628, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-    - {fileID: 2036593667480052330, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-    - {fileID: 7277061787756432553, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-    - {fileID: 4910687162759417149, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-    - {fileID: 1966306062106998496, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-    - {fileID: 4906521868043841709, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
-    - {fileID: 4754370937574855765, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}
+    m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a66249acdb9619640ab37e92e466e5b7, type: 3}

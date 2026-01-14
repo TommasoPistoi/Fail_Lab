@@ -25,7 +25,7 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Character_Died","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Characters","value":{"$content":[0,1,2,3,4,5],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Characters","value":{"$content":[0,1,2,3,4,5,6,7],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Inventory_of_The_Dead","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
@@ -39,3 +39,5 @@ MonoBehaviour:
     - {fileID: 3094031770779034996, guid: 9b2ca9bc6b94a344493cbec007d87049, type: 3}
     - {fileID: 3094031770779034996, guid: a430d58bb91459e439a90051331b42a9, type: 3}
     - {fileID: 3094031770779034996, guid: 772c449bd0cfb14418213d1c6d972dc0, type: 3}
+    - {fileID: 3094031770779034996, guid: edd5d0115e72d5940a881aa98e8aa6e4, type: 3}
+    - {fileID: 3094031770779034996, guid: bf37e775bdd57374ebc8ef3d2636d258, type: 3}
